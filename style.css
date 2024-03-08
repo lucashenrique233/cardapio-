@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+body {
+
+    background-color: black;
+}
+.row {
+	flex-direction: row;
+}
+.container {
+	width: 1250px;
+	margin: 0 auto;
+	display: flex;
+}
+.item {
+	flex: 1;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+header {
+    padding-top: 30px;
+    text-align: center;
+    color: black;
+    height: 200px;
+    background-color: beige;
+}
+
+.titulos {
+    background-color: rgb(255, 0, 0);
+    color: black;
+}
+.cardapio{
+    color: white;
+    text-align: center;
+}
+ h6, h5{
+    color: rgb(136, 0, 0);
+}
+
+#sashimi {
+    width: 20%;
+    border-radius: 50%
+}
+
+#salmao,
+img {
+    width: 20%;
+    border-radius: 50%;
+}
+
+#yakitori {
+    width: 20%;
+    border-radius: 50%;
+    ;
+
+}
+
+#pasteis recheados {
+    width: 20%;
+    border-radius: 50%;
+}
+
+#x-dog {
+    width: 20%;
+    border-radius: 50%;
+}
+
+#coca {
+    width: 20%;
+    border-radius: 50%;
+}
+
+#coca cola {
+    width: 20%;
+    border-radius: 50%;
+
+}
+
+#suco {
+    width: 20%;
+    border-radius: 50%;
+}
+
+#energetico {
+    width: 20%
+    border-radius: 50%;
+}
+
+footer {
+    padding-top: 30px;
+    text-align: center;
+    color: black
+    height: 200px;
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+}
+#sushi{
+    width: 20%;
+    border-radius: 50%;
+}
+
+h2, h3 {
+    color: aliceblue;
+}
